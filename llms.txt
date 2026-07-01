@@ -1,0 +1,14 @@
+# Cabos
+
+> Cabos — authentic Mexican cuisine in Nolensville.
+
+## Pages
+
+- [Home](/)
+- [Events](/events/)
+- [Menu](/menu/)
+
+## Contact
+
+- Address: 7336 Nolensville Rd, Nolensville, TN
+- Phone: (615) 819-0341
