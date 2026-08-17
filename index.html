@@ -169,7 +169,8 @@ main :where(section){scroll-margin-top:calc(var(--header-h) + 12px)}
   position:relative;z-index:3;text-align:center;
 }
 .hero-eyebrow{
-  display:inline-flex;align-items:center;gap:9px;background:rgba(255,255,255,.9);
+  display:flex;width:max-content;max-width:100%;margin-left:auto;margin-right:auto;
+  align-items:center;gap:9px;background:rgba(255,255,255,.9);
   color:var(--teal-ink);font-family:var(--f-display);font-weight:800;
   font-size:.78rem;letter-spacing:.14em;text-transform:uppercase;
   padding:8px 17px;border-radius:var(--radius-pill);box-shadow:0 6px 18px rgba(8,70,76,.22);
